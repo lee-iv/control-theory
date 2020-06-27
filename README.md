@@ -1,2 +1,2 @@
 # control-theory
-Sandbox to work mess around with different controls applications
+Sandbox to mess around with different controls applications
